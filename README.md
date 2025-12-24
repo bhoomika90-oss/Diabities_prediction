@@ -47,5 +47,5 @@ This Machine Learning based system helps in early detection of diabetes and prov
 
 TEAM MEMBERS
 - PoojaRao V
-- Neha
 - Bhoomika N G
+-Neha 
