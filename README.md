@@ -4,7 +4,7 @@ PROJECT OVERVIEW
 This project is a Machine Learning based system that predicts whether a person is diabetic or non-diabetic using medical data. Early prediction of diabetes helps in better treatment and prevention.
 
 PROBLEM STATEMENT
-Diabetes is a serious health issue affecting many people worldwide. Manual diagnosis may be time-consuming and may not always be accurate. This project uses Machine Learning to predict diabetes based on patient health parameters.
+Diabetes is a major health issue affecting people worldwide. Manual diagnosis can be time-consuming and may not always be accurate. This project uses Machine Learning techniques to predict diabetes based on patient health parameters.
 
 DATASET
 The project uses the PIMA Indians Diabetes Dataset.
@@ -43,9 +43,9 @@ The system predicts whether the patient is:
 - Non-Diabetic
 
 CONCLUSION
-This Machine Learning based system helps in early detection of diabetes and provides accurate prediction results. It demonstrates the effective use of ML techniques in healthcare applications.
+This Machine Learning based system helps in early detection of diabetes and provides accurate prediction results. It demonstrates the effective use of Machine Learning techniques in healthcare applications.
 
 TEAM MEMBERS
+- PoojaRao V
 - Neha
-- Bhoomika
-- Pooja
+- Bhoomika N G
